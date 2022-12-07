@@ -2,4 +2,4 @@
  cli project to know me better
 
 
-link - https://replit.com/@AdityaKaushal5/assignment1-know-your-chacha?v=1
+link - https://replit.com/@AdityaKaushal5/assignment1-know-your-chacha?embed=true
